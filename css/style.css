@@ -421,6 +421,7 @@ select {
 	background-color: #20B4AB;
 	filter: blur(39px);
 	position: absolute;
+	z-index: -1;
 	top: 66px;
 	left: 90px;
 }
