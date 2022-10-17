@@ -226,7 +226,7 @@ select {
 }
 
 .header-inner {
-	background-color: #000;
+	background: #151515;
 	height: 80px;
 	display: flex;
 	align-items: center;
